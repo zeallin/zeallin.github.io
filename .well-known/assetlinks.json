@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tfm.portal",
+    "sha256_cert_fingerprints":
+    ["8B:59:18:C6:ED:48:FD:4D:6A:C3:51:7B:FB:AA:92:9C:9E:51:86:83:C6:04:ED:71:F8:80:7A:2B:0A:DF:E6:CC"]
+  }
+}]
+
